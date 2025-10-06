@@ -1,22 +1,3 @@
-<table>
-  <tr>
-    <td width="180" align="center">
-      <img src="https://github.com/Neshranesh.png" width="150" style="border-radius:50%" />
-    </td>
-    <td>
-      <h2><b>Neshra K N</b></h2>
-      💡 <b>Data Analyst</b> <br>
-      📍 Ras Al Khaimah, UAE <br>
-      📧 <a href="mailto:neshranasar@gmail.com">neshranasar@gmail.com</a> <br>
-      🔗 <a href="https://www.linkedin.com/in/neshra-nazar">LinkedIn</a> | 
-      <a href="https://github.com/Neshranesh">GitHub</a> | 
-      <a href="https://your-portfolio-link.com">Portfolio</a>
-      <br><br>
-      🌟 Passionate about transforming raw data into actionable insights. Skilled in Python, SQL, Power BI, and automation tools.
-    </td>
-  </tr>
-</table>
-
 # 👋 Hi there! Welcome to my GitHub  
 ### I'm Neshra K N
  💡 <b>Data Analyst</b> <br>
